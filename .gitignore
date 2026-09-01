@@ -1,0 +1,17 @@
+# Virtual environments
+Benv/
+Benv 3 1 2/
+
+# VS Code
+.vscode/
+.VS Code/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
